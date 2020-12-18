@@ -1,0 +1,13 @@
+{
+  "name": "html-editor",
+  "version": "1.0.0",
+  "description": "A simple HTML/CSS/JS code editor website",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rayak Sil",
+  "license": "ISC",
+  "devDependencies": {},
+  "dependencies": {}
+}
